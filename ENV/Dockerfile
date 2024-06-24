@@ -1,0 +1,3 @@
+FROM almalinux:9
+ENV TRAINER="SIVA"\
+    COURSE="DEVOPS" 
